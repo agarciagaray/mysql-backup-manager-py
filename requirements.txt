@@ -1,0 +1,14 @@
+APScheduler==3.11.0
+cffi==1.17.1
+cryptography==42.0.5
+mysql-connector-python==9.3.0
+pillow==9.5.0
+plyer==2.1.0
+pycparser==2.22
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.17.0
+schedule==1.2.1
+ttkbootstrap==1.10.1
+tzdata==2025.2
+tzlocal==5.3.1
